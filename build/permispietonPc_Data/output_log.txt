@@ -1,0 +1,195 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Administrateur\Desktop\permispietonPc_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 169c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.018156 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.672880 ms (FindLiveObjects: 0.034317 ms CreateObjectMapping: 0.071200 ms MarkObjects: 0.540741 ms  DeleteObjects: 0.024695 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.258844 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 289.
+Total: 0.998415 ms (FindLiveObjects: 0.057730 ms CreateObjectMapping: 0.054843 ms MarkObjects: 0.856334 ms  DeleteObjects: 0.026940 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.115159 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.688595 ms (FindLiveObjects: 0.040090 ms CreateObjectMapping: 0.044260 ms MarkObjects: 0.579549 ms  DeleteObjects: 0.023733 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.458315 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2780.
+Total: 0.790265 ms (FindLiveObjects: 0.109046 ms CreateObjectMapping: 0.101349 ms MarkObjects: 0.560306 ms  DeleteObjects: 0.018922 ms)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu rouge pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu vert pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+changement d'etat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Raté
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu rouge pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu rouge pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu vert pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu vert pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+changement d'etat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+changement d'etat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu rouge pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu rouge pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu vert pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu vert pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+changement d'etat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+changement d'etat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu rouge pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu vert pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+changement d'etat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu vert pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+changement d'etat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu rouge pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+feu vert pour les voitures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.537593 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 2176.
+Total: 2.672598 ms (FindLiveObjects: 0.155230 ms CreateObjectMapping: 0.330987 ms MarkObjects: 1.325555 ms  DeleteObjects: 0.859542 ms)
+
