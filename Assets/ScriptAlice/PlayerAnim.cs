@@ -287,6 +287,11 @@ public class PlayerAnim: MonoBehaviour {
 
     public void rejouer()
     {
+        GenerationPlateformes.listDePlateformes.Clear();
+        PlayerAnim.nbBlocks = 3;
+        GenerationPickUp.cptPlateforme = 0;
+        ScoreScript.cptValidation = 0;
+        ScoreScript.cptPanneaux = 0;
         SceneManager.LoadScene("NewRunner");
     }
 

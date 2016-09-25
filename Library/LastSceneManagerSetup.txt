@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Menu/explicationScene.unity
+- path: Assets/Runner3DNew/NewRunner.unity
   isLoaded: 1
   isActive: 1
