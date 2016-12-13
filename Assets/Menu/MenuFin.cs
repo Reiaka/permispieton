@@ -16,7 +16,7 @@ public class MenuFin : MonoBehaviour {
 
 	public Text score;
 	public Text scoreFinal;
-	private string[] messagesDefin = {"Bravo ! Tu as validé tout le niveau !", "Pas mal ! Tu as presque validé tout le niveau !", "Oooh ... tu n'as presque pas validé le niveau ... Aller, tu peux mieux faire !"};
+	private string[] messagesDefin = {"Bravo ! Tu as validé tout le niveau !", "Pas mal ! Tu as presque validé tout le niveau !", "Oooh ... tu n'as presque pas validé le niveau ... Aller, tu peux mieux faire !", "Tu as triché !!!"};
 		
 	void Start(){
 		//Changement de l'apparence des bouton
@@ -54,15 +54,23 @@ public class MenuFin : MonoBehaviour {
 			etoile_2.enabled = false;
 			etoile_1.enabled = false;
 			scoreFinal.text += messagesDefin[1];
-		} else {
+		} else if (ScoreScript.cptValidation == 5){
 			etoile_5.enabled = true;
 			etoile_4.enabled = false;
 			etoile_3.enabled = false;
 			etoile_2.enabled = false;
 			etoile_1.enabled = false;
 			scoreFinal.text += messagesDefin[0];
-		}
+		} else {
+		etoile_5.enabled = false;
+		etoile_4.enabled = false;
+		etoile_3.enabled = false;
+		etoile_2.enabled = false;
+		etoile_1.enabled = true;
+		scoreFinal.text += messagesDefin[3];
 	}
+
+}
 
 	// Use this for initialization
 	void OnGUI() {
