@@ -1,6 +1,6 @@
 # Permis pieton
 
-Projet réalisé en août 2016 par Alice Mondjanagni et Adèle Wagner sur le permis piéton
+Projet réalisé en août 2016 par Alice Mondjanagni et Adèle Wagner sur le permis piéton, modifications apportées par GeantTarse lors de son stage de 3e.
 
 C'est un prototype de jeu pour apprendre les règle de circulation en vue de passer le permis piétons en classe de CE2 ou pour les personnes en situation de handicap.
 
