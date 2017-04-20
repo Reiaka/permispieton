@@ -39,19 +39,19 @@ public class AnimationVoitures1 : MonoBehaviour {
 				if(monChangementFeu == 2){
 					feuPieton1On = false; 
 					//Debug.Log ("feu pieton = " + feuPieton1On);
-					transform.Translate (Vector3.forward * 13 * Time.deltaTime);
+					transform.Translate (Vector3.forward * 20 * Time.deltaTime);
 				}
 				else{
 					feuPieton1On = true; 
 					//Debug.Log ("feu pieton = " + feuPieton1On);
-					transform.Translate (Vector3.forward * 13 * Time.deltaTime);
-					transform.Translate (Vector3.back * 13 * Time.deltaTime);
+					transform.Translate (Vector3.forward * 20 * Time.deltaTime);
+					transform.Translate (Vector3.back * 20 * Time.deltaTime);
 				}
 			}
 			else{
 				estPlateformeAvecFeu = false;
 				feuPieton1On = false; 
-				transform.Translate (Vector3.forward * 11.5f * Time.deltaTime);
+				transform.Translate (Vector3.forward * 20f * Time.deltaTime);
 			}
 		}
 

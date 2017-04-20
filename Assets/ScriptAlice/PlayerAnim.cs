@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
+
 
 public class PlayerAnim: MonoBehaviour {
 
@@ -292,7 +292,7 @@ public class PlayerAnim: MonoBehaviour {
         GenerationPickUp.cptPlateforme = 0;
         ScoreScript.cptValidation = 0;
         ScoreScript.cptPanneaux = 0;
-        SceneManager.LoadScene("NewRunner");
+        Application.LoadLevel("NewRunner");
     }
 
     //Fonction servant à quitter le jeu si appuie sur le bouton quitter

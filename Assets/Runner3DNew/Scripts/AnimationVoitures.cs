@@ -40,13 +40,13 @@ public class AnimationVoitures : MonoBehaviour {
 				if(monChangementFeu == 2){
 					feuPietonOn = false; 
 					//Debug.Log ("feu pieton = " + feuPietonOn);
-					transform.Translate (Vector3.forward * 13 * Time.deltaTime);
+					transform.Translate (Vector3.forward * 20 * Time.deltaTime);
 				}
 				else{
 					feuPietonOn = true;
 					//Debug.Log ("feu pieton = " + feuPietonOn);
-					transform.Translate (Vector3.forward * 13 * Time.deltaTime);
-					transform.Translate (Vector3.back * 13 * Time.deltaTime);
+					transform.Translate (Vector3.forward * 20 * Time.deltaTime);
+					transform.Translate (Vector3.back * 20 * Time.deltaTime);
 				}
 			}
 			else if(plateformeAvecGarage){//Si plateforme avec un garage
@@ -55,18 +55,18 @@ public class AnimationVoitures : MonoBehaviour {
 				if(monChangementFeuGarage == 2){
 					//Debug.Log("voiture avance");
 					feuPietonOn = false; 
-					transform.Translate (Vector3.forward * 12.5f * Time.deltaTime);
+					transform.Translate (Vector3.forward * 20 * Time.deltaTime);
 				}
 				else{
 					feuPietonOn = true; 
-					transform.Translate (Vector3.forward * 12.5f * Time.deltaTime);
-					transform.Translate (Vector3.back * 12.5f * Time.deltaTime);
+					transform.Translate (Vector3.forward * 20 * Time.deltaTime);
+					transform.Translate (Vector3.back * 20* Time.deltaTime);
 				}
 			}
 			else{ //si plateforme sans garage ni feux
 				estPlateformeAvecFeu = false;
 				feuPietonOn = false; 
-				transform.Translate (Vector3.forward * 11.5f * Time.deltaTime);
+				transform.Translate (Vector3.forward * 20 * Time.deltaTime);
 			}
 		}
 
